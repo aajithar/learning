@@ -1,4 +1,8 @@
 hello,
 who are you man?
 i'm ajith
+<<<<<<< HEAD
 hi i'm on the way
+=======
+what about you
+>>>>>>> testing
